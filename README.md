@@ -30,11 +30,11 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```gradle
     dependencies {
-    	        compile 'com.github.interwap:bt01:v1.0'
+    	        compile 'com.github.interwap:BT01:v1.0'
     	}
  ```
 
-Get more information about versions and releases here: [`jitpack`](https://jitpack.io/#interwap/bt01/v1.0)
+Get more information about versions and releases here: [`jitpack`](https://jitpack.io/#interwap/BT01/v1.0)
 
 
 License
