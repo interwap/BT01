@@ -1,6 +1,15 @@
-# fingerprint-fp05
-A nifty (Android) library for verification and authentication of fingerprint on the fgtit-fp05 mobile device
-Official release library for fgtit-fp05 device.
+# BT01
+This nifty (Android) library lets your applications wirelessly connect to other Bluetooth devices, enabling point-to-point and multipoint wireless features.
+Best suited for use with external bluetooth printers amd card reader (Huifan HF7000).
+
+Using the BT01, an Android application can perform the following:
+
+- Scan for other Bluetooth devices
+- Query the local Bluetooth adapter for paired Bluetooth devices
+- Establish RFCOMM channels
+- Connect to other devices through service discovery
+- Transfer data to and from other devices
+- Manage connection
 
 Usage:
 
@@ -21,30 +30,11 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 ```gradle
     dependencies {
-    	        compile 'com.github.interwap:fingerprint-fp05:v1.6'
+    	        compile 'com.github.interwap:bt01:v1.0'
     	}
  ```
 
-Get more information about versions and releases here: [`jitpack`](https://jitpack.io/#interwap/fingerprint-fp05/v1.6)
-
-
-Update: Version 1.6 (Stable)
-- Modified Fingerprint Matching algorithm
-
-
-Update: Version 1.5 (Deprecated)
-
-
-Update: Version 1.4 (Stable)
-- Set value for text size
-- Set value for dialog width
-- Set value for dialog height
-- Check isShowing Status
-
-
-
-Update: Version 1.3 (Deprecated)
-- Fixed TextSize Bug
+Get more information about versions and releases here: [`jitpack`](https://jitpack.io/#interwap/bt01/v1.0)
 
 
 License
