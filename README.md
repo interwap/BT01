@@ -1,15 +1,15 @@
 # BT01
 This nifty (Android) library lets your applications wirelessly connect to other Bluetooth devices, enabling point-to-point and multipoint wireless features.
-Best suited for use with external bluetooth printers amd card reader (Huifan HF7000).
+Best suited for use with external bluetooth printers, card reader (Huifan HF7000) and other bluetooth peripherals.
 
-Using the BT01, an Android application can perform the following:
+Using the BT01 library, an Android application can perform the following:
 
 - Scan for other Bluetooth devices
 - Query the local Bluetooth adapter for paired Bluetooth devices
 - Establish RFCOMM channels
 - Connect to other devices through service discovery
 - Transfer data to and from other devices
-- Manage connection
+- Manage connections
 
 Usage:
 
